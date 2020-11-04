@@ -1,0 +1,13 @@
+F:\ALVARO\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csprojAssemblyReference.cache
+F:\ALVARO\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfoInputs.cache
+F:\ALVARO\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfo.cs
+F:\ALVARO\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.CoreCompileInputs.cache
+F:\ALVARO\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.exe
+F:\ALVARO\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.deps.json
+F:\ALVARO\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.json
+F:\ALVARO\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.dev.json
+F:\ALVARO\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.dll
+F:\ALVARO\Tugas1\bin\Debug\netcoreapp3.1\Tugas1.pdb
+F:\ALVARO\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.dll
+F:\ALVARO\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.pdb
+F:\ALVARO\Tugas1\obj\Debug\netcoreapp3.1\Tugas1.genruntimeconfig.cache
